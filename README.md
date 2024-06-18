@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @northeast23
-- 👀 I'm interested in continuous improvement, including for myself.
-- 🌱 I’m currently learning web programming. 
+- 👀 I'm interested in data, AI, PaaS.
+- 🌱 I’m currently building a community site. 
 - 💞️ I’m looking to collaborate on django projects.
 - 📫 How to reach me: northeast999a via gmail
-- 😄 Pronouns: umm... 
 - ⚡ Fun fact: My ring fingers are longer than my index fingers.
 
 <!---
